@@ -42,6 +42,8 @@
   <img src="https://gitlevel.vercel.app/api/card?username=alsoub-labs&theme=volt&card_width=560" alt="GitLevel card" />
 </a>
 
+[![GitLevel](https://gitlevel.vercel.app/api/card?username=alsoub-labs&exclude_langs=HTML,Jupyter%20Notebook,CSS)](https://gitlevel.vercel.app/u/YOU)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsoub-labs&layout=compact)
