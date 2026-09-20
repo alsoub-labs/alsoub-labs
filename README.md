@@ -33,7 +33,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsoub-labs&show_icons=true)<br/>  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alsoub-labs&show_icons=true)
+[![GitLevel](https://gitlevel.vercel.app/api/card?username=alsoub-labs)](https://gitlevel.vercel.app/u/alsoub-labs)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>  
