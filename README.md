@@ -32,13 +32,6 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsoub-labs&show_icons=true)<br/>  
-
-[![GitLevel](https://gitlevel.vercel.app/api/card?username=alsoub-labs)](https://gitlevel.vercel.app/u/alsoub-labs)
-
-
-[![GitLevel](https://gitlevel.vercel.app/api/card?username=alsoub-labs&exclude_langs=HTML,Jupyter%20Notebook,CSS)](https://gitlevel.vercel.app/u/alsoub-labs)
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsoub-labs&layout=compact)
 
