@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsoub-labs &show_icons=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alsoub-labs &show_icons=true)<br/>  
+![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsoub-labs &layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
