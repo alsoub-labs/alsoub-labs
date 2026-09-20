@@ -32,7 +32,7 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omars1234&show_icons=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=omars1234)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=alsoub-labs)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omars1234&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
